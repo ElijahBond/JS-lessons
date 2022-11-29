@@ -4,7 +4,7 @@ let personalMoviesDB = {
     count: resultOfFilms,
     movies: {},
     actors: {},
-    genres: {},
+    genres: [],
     privat: false
 };
 
